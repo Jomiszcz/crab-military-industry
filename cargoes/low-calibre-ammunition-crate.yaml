@@ -1,0 +1,17 @@
+abbreviation: LC
+available: false
+classes: 800
+colour: 194
+id: 0
+label: LCAC
+longName: low calibre ammunition crate
+name: Low Calibre Ammunition Crate
+penaltyLength: 60
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/low-calibre-ammunition-crate.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 8

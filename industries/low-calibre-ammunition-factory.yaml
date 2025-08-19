@@ -1,0 +1,124 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- LCAC
+colour: 1
+fundCostMultiplier: 125
+id: 0
+layout:
+- - - 0
+    - 1
+    - 2
+  - - 3
+    - 4
+    - 5
+  - - 6
+    - 7
+    - 8
+name: Low Calibre Ammunition Factory
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/2.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/3.png
+      left: -31
+      top: 1
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/4.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/5.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/6.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/7.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/8.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/low-calibre-ammunition-factory/9.png
+      left: -31
+      top: 3
+type: secondary
